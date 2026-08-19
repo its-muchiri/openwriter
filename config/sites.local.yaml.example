@@ -1,0 +1,5 @@
+# This file is deliberately gitignored when named sites.local.yaml.
+credentials:
+  site-demo-01:
+    username: "wordpress-user"
+    app_password: "xxxx xxxx xxxx xxxx xxxx xxxx"

@@ -1,0 +1,10 @@
+.env
+config/sites.local.yaml
+logs/
+*.xlsx
+!sheets/example-keywords.xlsx
+__pycache__/
+.pytest_cache/
+.test-tmp/
+.test-artifacts/
+*.egg-info/

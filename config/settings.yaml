@@ -1,0 +1,13 @@
+opencode:
+  model: "anthropic/claude-sonnet-4-5"
+  use_server: true
+  server_url: "http://localhost:4096"
+  timeout_seconds: 300
+run:
+  max_retries: 3
+  retry_backoff_seconds: 5
+  requests_per_minute_per_site: 20
+  concurrency: 4
+logging:
+  level: INFO
+  log_dir: logs/

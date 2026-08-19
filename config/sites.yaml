@@ -1,0 +1,38 @@
+sites:
+  - id: site-demo-01
+    base_url: "https://site-demo-01.example.com"
+    seo_plugin: yoast
+    default_category: "Uncategorized"
+    default_status: draft
+    template: default
+    timezone: Africa/Nairobi
+  # Copy this non-secret pattern for each managed site. Placeholder registry has 30 entries.
+  - {id: site-demo-02, base_url: "https://site-demo-02.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
+  - {id: site-demo-03, base_url: "https://site-demo-03.example.com", seo_plugin: none, default_category: Uncategorized, default_status: draft, template: listicle, timezone: Africa/Nairobi}
+  - {id: site-demo-04, base_url: "https://site-demo-04.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: comparison, timezone: Africa/Nairobi}
+  - {id: site-demo-05, base_url: "https://site-demo-05.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: default, timezone: Africa/Nairobi}
+  - {id: site-demo-06, base_url: "https://site-demo-06.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
+  - {id: site-demo-07, base_url: "https://site-demo-07.example.com", seo_plugin: none, default_category: Uncategorized, default_status: draft, template: listicle, timezone: Africa/Nairobi}
+  - {id: site-demo-08, base_url: "https://site-demo-08.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: comparison, timezone: Africa/Nairobi}
+  - {id: site-demo-09, base_url: "https://site-demo-09.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: default, timezone: Africa/Nairobi}
+  - {id: site-demo-10, base_url: "https://site-demo-10.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
+  - {id: site-demo-11, base_url: "https://site-demo-11.example.com", seo_plugin: none, default_category: Uncategorized, default_status: draft, template: listicle, timezone: Africa/Nairobi}
+  - {id: site-demo-12, base_url: "https://site-demo-12.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: comparison, timezone: Africa/Nairobi}
+  - {id: site-demo-13, base_url: "https://site-demo-13.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: default, timezone: Africa/Nairobi}
+  - {id: site-demo-14, base_url: "https://site-demo-14.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
+  - {id: site-demo-15, base_url: "https://site-demo-15.example.com", seo_plugin: none, default_category: Uncategorized, default_status: draft, template: listicle, timezone: Africa/Nairobi}
+  - {id: site-demo-16, base_url: "https://site-demo-16.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: comparison, timezone: Africa/Nairobi}
+  - {id: site-demo-17, base_url: "https://site-demo-17.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: default, timezone: Africa/Nairobi}
+  - {id: site-demo-18, base_url: "https://site-demo-18.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
+  - {id: site-demo-19, base_url: "https://site-demo-19.example.com", seo_plugin: none, default_category: Uncategorized, default_status: draft, template: listicle, timezone: Africa/Nairobi}
+  - {id: site-demo-20, base_url: "https://site-demo-20.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: comparison, timezone: Africa/Nairobi}
+  - {id: site-demo-21, base_url: "https://site-demo-21.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: default, timezone: Africa/Nairobi}
+  - {id: site-demo-22, base_url: "https://site-demo-22.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
+  - {id: site-demo-23, base_url: "https://site-demo-23.example.com", seo_plugin: none, default_category: Uncategorized, default_status: draft, template: listicle, timezone: Africa/Nairobi}
+  - {id: site-demo-24, base_url: "https://site-demo-24.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: comparison, timezone: Africa/Nairobi}
+  - {id: site-demo-25, base_url: "https://site-demo-25.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: default, timezone: Africa/Nairobi}
+  - {id: site-demo-26, base_url: "https://site-demo-26.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
+  - {id: site-demo-27, base_url: "https://site-demo-27.example.com", seo_plugin: none, default_category: Uncategorized, default_status: draft, template: listicle, timezone: Africa/Nairobi}
+  - {id: site-demo-28, base_url: "https://site-demo-28.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: comparison, timezone: Africa/Nairobi}
+  - {id: site-demo-29, base_url: "https://site-demo-29.example.com", seo_plugin: yoast, default_category: Uncategorized, default_status: draft, template: default, timezone: Africa/Nairobi}
+  - {id: site-demo-30, base_url: "https://site-demo-30.example.com", seo_plugin: rankmath, default_category: News, default_status: draft, template: how-to, timezone: Africa/Nairobi}
